@@ -6,13 +6,12 @@
   - [Manim Projects](#manim-projects)
   - [Math Knowledge](#math-knowledge)
 
-This repository aim to collecting  info about Manim, including Manim version from 3blue1browm and Manim Community(ManimCE), with information focus on:
+This repository aims to collecting  info about Manim, including Manim version from 3Blue1Browm and Manim Community(ManimCE), with information focus on:
 
 - Manim Resources
 - Manim Projects
 - Math Knowledge
 
-manim practice, using manim ce
 
 ## Manim Resources
 
