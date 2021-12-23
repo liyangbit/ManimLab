@@ -3,10 +3,13 @@
 
 - [ManimLab](#manimlab)
   - [Manim Resources](#manim-resources)
-  - [Manim Projects](#manim-projects)
+  - [Manim 项目实践](#manim-项目实践)
+    - [圣诞树](#圣诞树)
   - [Math Knowledge](#math-knowledge)
 
-This repository aims to collecting  info about Manim, including Manim version from 3Blue1Browm and Manim Community(ManimCE), with information focus on:
+The aim of this repository is to cover important advanced areas in Manim, using tools such as Manim version from 3Blue1Browm or Manim Community(ManimCE), with information focus on:
+
+<!-- This repository aims to cover  info about Manim, including Manim version from 3Blue1Browm or Manim Community(ManimCE), with information focus on: -->
 
 - Manim Resources
 - Manim Projects
@@ -27,9 +30,13 @@ This repository aims to collecting  info about Manim, including Manim version fr
 - [Mobject Gallery](https://kolibril13.github.io/mobject-gallery/)
 
 
-## Manim Projects
+## Manim 项目实践
 
-keep updating
+### 圣诞树
+
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo446i0mtg30nq0dchdv.gif)
+
+[代码链接]()
 
 ## Math Knowledge
 
