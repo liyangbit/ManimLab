@@ -36,7 +36,7 @@ The aim of this repository is to cover important advanced areas in Manim, using 
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo446i0mtg30nq0dchdv.gif)
 
-[代码链接]()
+[代码链接](https://github.com/liyangbit/ManimLab/tree/main/projects/christmas)
 
 ## Math Knowledge
 
