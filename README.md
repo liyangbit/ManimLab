@@ -40,4 +40,8 @@ The aim of this repository is to cover important advanced areas in Manim, using 
 
 ## Math Knowledge
 
-keep updating
+- [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/index.html)
+- [Algebra, Topology, Differential Calculus, and
+Optimization Theory for Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/geomath.html)
+
+keep updating ……
