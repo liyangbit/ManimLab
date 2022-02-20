@@ -29,6 +29,8 @@ The aim of this repository is to cover important advanced areas in Manim, using 
 
 - [Mobject Gallery](https://kolibril13.github.io/mobject-gallery/)
 
+- [Manim社区版基础教程](https://github.com/liyangbit/ManimLab/tree/main/manimce-tutorial)
+
 
 ## Manim 项目实践
 
