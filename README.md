@@ -2,6 +2,7 @@
 
 
 - [ManimLab](#manimlab)
+  - [Manim社区版基础教程](#manim社区版基础教程)
   - [Manim Resources](#manim-resources)
   - [Manim 项目实践](#manim-项目实践)
     - [圣诞树](#圣诞树)
@@ -15,6 +16,11 @@ The aim of this repository is to cover important advanced areas in Manim, using 
 - Manim Projects
 - Math Knowledge
 
+
+## Manim社区版基础教程
+
+- [01-基础形状](https://mp.weixin.qq.com/s/K6XYxTzHmikzrApy2JYWeQ)
+- [02-文本使用介绍](https://mp.weixin.qq.com/s/ZdHBrfM8xFJly2DsCt1LeQ)
 
 ## Manim Resources
 
